@@ -1,2 +1,2 @@
-# COMP3330_Ass_B
-Homework Assignment B
+# __COMP3330_Ass_B__
+# Homework Assignment B: Part 1: 
